@@ -1,6 +1,6 @@
-## Your Name
+## Zoe Kavanagh
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+Having worked in varied roles within the Aviva plc Company Secretarial department for 11 years, and recognising the pace of change technology was having in the work place, especially in company such as Aviva whose leading strategic anchors was to put 'Digital First', I was inspired to join the tech world and embarked on a computing programing course with Makers Academy which is a 12 week immersive course.
 
 ## Skills
 
@@ -23,7 +23,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (16 April 2018 to 6 July 2018)
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
@@ -44,7 +44,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Aviva plc** (01 Jan 2015 to 13 April 2018)    
+*Share Schemes Co-ordinator*  
+**Aviva plc** (01 Jan 2007 to 31 December 2014)   
+*Company Secretarial Assistant*  
