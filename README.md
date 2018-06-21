@@ -1,6 +1,8 @@
 ## Zoe Kavanagh
 
-Having worked in varied roles within the Aviva plc Company Secretarial department for 11 years, and recognising the pace of change technology was having in the work place, especially in company such as Aviva whose leading strategic anchors was to put 'Digital First', I was inspired to join the tech world and embarked on a computing programing course with Makers Academy which is a 12 week immersive course.
+### A bit about me
+
+I made a decision in 2018 to change my career and leap into the world of tech.  Having worked in Company Secretarial for 11 years, I could see clearly how tech would change the future of the secretarial industry entirely which provoked me to consider the future and my role in contributing the future.  I decided to apply to Makers Academy (12 week coding bootcamp) and having graduated from the course, I am looking for junior developer role with a great company.
 
 ## Skills
 
