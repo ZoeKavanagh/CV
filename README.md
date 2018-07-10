@@ -8,11 +8,13 @@ In 2018 I made a bold decision to change my career and leap into the world of co
 
 The Makers Academy curriculum is centred around learning to code by doing. The projects focus on Agile best practices like TDD and pair programming - modeling the modern world of software engineering in the workplace.  You can see my progression throughout the course on my Github however, below are some select projects to demonstrate what I have learnt in just 13 weeks:
 
+[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+
 | Project      | Description | Construction time | Technologies Used | Testing Frameworks |
 | :---         |     :---    |              ---: |:---               |               ---: |
-| Fishnet    | Four individuals were given the task of creating our interpretation of Facebook with an emphasis on focusing on learning as a group. There is no real expanation for the name.   | 2 weeks   | Ruby on Rails, AWS, Bootstrap | Rspec, Capybara, Travis |
-| Bank Tech Test    | An individual attempt a real life tech test   | 2-3 days  | Ruby | Rspec |
-| Make My Day      | Our final project was to create a fun new app that uses an API to display fun suggestions for the user to do on a selected date | 2 weeks | Ruby on Rails, React, HTML, CSS, Heroku, Travis, AWS3, postgres | Rspec, Capybara |
+| [Fishnet](https://github.com/ZoeKavanagh/fishnet "Fishnet Repo")    | Four individuals were given the task of creating our interpretation of Facebook with an emphasis on focusing on learning as a group. There is no real expanation for the name.   | 2 weeks   | Ruby on Rails, AWS, Bootstrap, Postgres | Rspec, Capybara, Travis |
+| [Bank Tech Test] (https://github.com/ZoeKavanagh/bank_tech_test "Bank Tech Test Repo")    | An individual attempt a real life tech test   | 2-3 days  | Ruby | Rspec |
+| [Make My Day] (https://polar-beach-63507.herokuapp.com/ ("Make My Day Deployed")     | Our final project was to create a fun new app that uses an API (which we built ourselves) to display fun suggestions for the user to do on a selected date | 2 weeks | Ruby on Rails, React, HTML, CSS, Heroku, Travis, AWS3, Postgres | Rspec, Capybara |
 
 ## Skills
 
