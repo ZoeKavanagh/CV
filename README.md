@@ -8,6 +8,7 @@ In 2018 I made a bold decision to change my career and leap into the world of co
 
 The Makers Academy curriculum is centred around learning to code by doing. The projects focus on Agile best practices like TDD and pair programming - modeling the modern world of software engineering in the workplace.  You can see my progression throughout the course on [my Github](https://github.com/ZoeKavanagh) however, below are some select projects to demonstrate what I have learnt in just 12 weeks:
 
+
 | Project      | Description | Construction time | Technologies Used | Testing Frameworks |
 | :---         |     :---    |              ---: |:---               |               ---: |
 | [Fishnet](https://github.com/ZoeKavanagh/fishnet "Fishnet Repo")    | As a group of four, we were given the task of creating our interpretation of Facebook with an emphasis on focusing on learning as a group. There is no real expanation for the name.   | 2 weeks   | Ruby on Rails, AWS, Bootstrap, Postgres | Rspec, Capybara, Travis |
@@ -18,19 +19,19 @@ The Makers Academy curriculum is centred around learning to code by doing. The p
 
 #### Team Work
 
-I worked on four group projects throughout my time at Makers, and although working as a team can be challenging, it was an environment in which I thrived.  I enjoy the commoradery of working in a team and the fun it can inject into working.  To ensure the teams I was a part of had a clear direction during the project timeframes, we would organise ourselves to have daily morning stand-ups and retros following each sprint.  We used kanban for every project which was great a way to track progression and give each team member an opportunity to work on what they wanted to. 
+I worked on four group projects throughout my time at Makers, and although working as a team can be challenging, it was an environment in which I thrived.  I enjoy the comradery of working in a team and the fun it can inject into working.  To ensure we always had a clear direction during the project timeframes, we have daily morning stand-ups and retros following each sprint.  We used kanban for every project which was great a way to track progression, keep momentum up and assign responsibilities. 
 
 Good communication is key to a successful project and allowing time and space for that communication to happen, I beleive is essential.  
 
 #### Ability to work under preassure 
 
-Having come from a high preassured working environment before joining Makers, I know the word deadline very well!  In my previous roles, I have had more than one occasion where the goal posts have changed at the last minute and as a team and individually, you have to adapt to the changing requirements.  Makers has also provided times of high pressure in a different way, learning completely new technologies in an intense environment, at a fast pace, I beleive has demonstrated my resilience. 
+Having come from a high preassured working environment before joining Makers, I know the word deadline very well!  In my previous roles, I have had more than one occasion where the goal posts have changed at the last minute and both, as a team member and individually, I have learnt how to adapt in order to meet the changing requirements.  Makers has also provided times of high pressure in a different way, learning completely new technologies in an intense environment, at a fast pace, I beleive has demonstrated my resilience. 
 
 #### Creativity
 
 I like to think creatively in order to solve a problem. In my previous role as Share Schemes Co-ordinator, I was taksed with increasing the take-up of our Employee Share Plans amoungst our younger employees.  The solution was obvious but we had never addressed it specifically, our communications needed to be aligned with the thoughts of younger people.  With sign off, I managed to change the communications plan completely and the result was phenomenal, we saw a significant rise in take-up.  
 
-Problem solving for me is going back to asking 'what is the real problem?' and then finding the first smallest part of the problem that needs solving (in this case it was just getting young people to read the communications).
+Problem solving for me is going back to asking 'what is the real problem?' and then finding the first smallest part of the problem that needs solving (in this case it was just getting young people to read the communications). This approach is directly applicable to writing good code - starting by solving the first problem and building up gradually.
 
 ## Education
 
@@ -42,9 +43,12 @@ Highly selective 12 week intensive coding bootcamp.
  - Object oriented programming & software design
  - Full stack web development
  - Building MVC framework pattern
- - Agile/XP
- - Ruby, Rails, JavaScript
- - RSpec, Jasmine
+ - Agile/XP Values
+  - Languages: Ruby, JavaScript (and jQuery), HTML/CSS
+  - Web Frameworks: Sinatra, Ruby on Rails
+  - Databases: PostgreSQL
+  - Testing Suites: RSpec, Capybara, Selenium-Webdriver, Jasmine
+  - CI/CD: Travis CI, Heroku, AWS S3
 
 #### Institute of Chartered Secretaries and Administrators (ICSA) / Tapestry (Jun 2016 to Aug 2016)
 
@@ -62,3 +66,8 @@ Highly selective 12 week intensive coding bootcamp.
 *Share Schemes Co-ordinator*  
 **Aviva plc** (01 Jan 2007 to 31 December 2014)   
 *Company Secretarial Assistant*  
+
+
+#### Interests
+I have recently been promoted from a mere 'sender of memes' to 'maker of memes', which is a full time job in itself!
+
