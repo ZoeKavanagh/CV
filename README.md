@@ -2,34 +2,35 @@
 
 ### About me
 
-In 2018 I made a bold decision to change my career and leap into the world of computer progamming.  Having worked in the Company Secretarial industry for nearly 12 years, it became impossible to ignore how much tech was changing the future and suffering from FOMO (fear of missing out), I knew I had to be a contributor.  I applied to Makers Academy (a highly selective, intensive 12 week coding bootcamp) and having recently graduated from the course, I am now looking to launch my new career as a fully fledged full-stack junior developer, with an eagerness and drive to learn, with a great company.
+In 2018 I made a bold decision to change my career and leap into the world of computer progamming.  Having worked in the Company Secretarial industry for nearly 12 years, it became impossible to ignore how much tech was changing the future and, suffering from FOMO (fear of missing out), I knew I had to be a contributor (and add value).  I applied to Makers Academy (a highly selective, intensive 12 week coding bootcamp) and having recently graduated from the course, I am now looking to launch my new career as a fully fledged full-stack junior developer, with an eagerness and drive to learn, with a great company.
 
 ## Projects && Code
 
-The Makers Academy curriculum is centred around learning to code by doing. The projects focus on Agile best practices like TDD and pair programming - modeling the modern world of software engineering in the workplace.  You can see my progression throughout the course on my Github however, below are some select projects to demonstrate what I have learnt in just 13 weeks:
+The Makers Academy curriculum is centred around learning to code by doing. The projects focus on Agile best practices like TDD and pair programming - modeling the modern world of software engineering in the workplace.  You can see my progression throughout the course on [my Github](https://github.com/ZoeKavanagh) however, below are some select projects to demonstrate what I have learnt in just 12 weeks:
 
 | Project      | Description | Construction time | Technologies Used | Testing Frameworks |
 | :---         |     :---    |              ---: |:---               |               ---: |
-| [Fishnet](https://github.com/ZoeKavanagh/fishnet "Fishnet Repo")    | Four individuals were given the task of creating our interpretation of Facebook with an emphasis on focusing on learning as a group. There is no real expanation for the name.   | 2 weeks   | Ruby on Rails, AWS, Bootstrap, Postgres | Rspec, Capybara, Travis |
-| [Bank Tech Test](https://github.com/ZoeKavanagh/bank_tech_test "Bank Tech Test Repo")    | An individual attempt a real life tech test.   | 2-3 days  | Ruby | Rspec |
-| [Make My Day](https://polar-beach-63507.herokuapp.com "Make My Day Deployed")     | Our final project was to create a fun new app that uses an API (which we built ourselves) to display fun suggestions for the user to do on a selected date. | 2 weeks | Ruby on Rails, React, HTML, CSS, Heroku, Travis, AWS3, Postgres | Rspec, Capybara |
+| [Fishnet](https://github.com/ZoeKavanagh/fishnet "Fishnet Repo")    | As a group of four, we were given the task of creating our interpretation of Facebook with an emphasis on focusing on learning as a group. There is no real expanation for the name.   | 2 weeks   | Ruby on Rails, AWS, Bootstrap, Postgres | Rspec, Capybara, Travis |
+| [Bank Tech Test](https://github.com/ZoeKavanagh/bank_tech_test "Bank Tech Test Repo")    | An individual attempt at a real life tech test.   | 2-3 days  | Ruby | Rspec |
+| [Make My Day](https://polar-beach-63507.herokuapp.com "Make My Day Deployed")     | Our final project was to create a fun new app that uses an API (which we built ourselves) to display suggested activities for the user to do on a selected date. | 2 weeks | Ruby on Rails, React, HTML, CSS, Heroku, Travis, AWS3, Postgres | Rspec, Capybara |
 
 ## Skills
 
 #### Team Work
 
-I have now worked on four group projects through out my time at Makers, and although working as a team can be challenging, it definitely 
+I worked on four group projects throughout my time at Makers, and although working as a team can be challenging, it was an environment in which I thrived.  I enjoy the commoradery of working in a team and the fun it can inject into working.  To ensure the teams I was a part of had a clear direction during the project timeframes, we would organise ourselves to have daily morning stand-ups and retros following each sprint.  We used kanban for every project which was great a way to track progression and give each team member an opportunity to work on what they wanted to. 
+
+Good communication is key to a successful project and allowing time and space for that communication to happen, I beleive is essential.  
 
 #### Ability to work under preassure 
 
-Clean code advocate
-Makers shaped and facilitated my want to be a purveyor of clean code. Exercising programming principles such as SOLID and DRY, practicing usage of XP Values in group situations to ensure we were on the same wavelength, striking a fine balance between having an efficient and a readable codebase (for yourself as well as for others!) and using TDD/BDD to keep pesky bugs out of the way when that crafted code is pushed to production.
-
-I truly believe in this approach to programming and coding and hope to work with others that respect it as much as I do.
+Having come from a high preassured working environment before joining Makers, I know the word deadline very well!  In my previous roles, I have had more than one occasion where the goal posts have changed at the last minute and as a team and individually, you have to adapt to the changing requirements.  Makers has also provided times of high pressure in a different way, learning completely new technologies in an intense environment, at a fast pace, I beleive has demonstrated my resilience. 
 
 #### Creativity
 
-Makers shaped and facilitated my want to be a purveyor of clean code. Exercising programming principles such as SOLID and DRY, practicing usage of XP Values in group situations to ensure we were on the same wavelength, striking a fine balance between having an efficient and a readable codebase (for yourself as well as for others!) and using TDD/BDD to keep pesky bugs out of the way when that crafted code is pushed to production.
+I like to think creatively in order to solve a problem. In my previous role as Share Schemes Co-ordinator, I was taksed with increasing the take-up of our Employee Share Plans amoungst our younger employees.  The solution was obvious but we had never addressed it specifically, our communications needed to be aligned with the thoughts of younger people.  With sign off, I managed to change the communications plan completely and the result was phenomenal, we saw a significant rise in take-up.  
+
+Problem solving for me is going back to asking 'what is the real problem?' and then finding the first smallest part of the problem that needs solving (in this case it was just getting young people to read the communications).
 
 ## Education
 
