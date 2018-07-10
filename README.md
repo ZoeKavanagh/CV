@@ -1,10 +1,14 @@
 # Zoe Kavanagh (zoekavanagh2017@hotmail.com)
 
-### About me
+[About me](#about) | [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Contact](#contact) |
+
+<a name="projects">Projects & Code</a>
+
+## <a name="about">About me</a>
 
 In 2018 I made a bold decision to change my career and leap into the world of computer progamming.  Having worked in the Company Secretarial industry for nearly 12 years, it became impossible to ignore how much tech was changing the future and, suffering from FOMO (fear of missing out), I knew I had to be a contributor (and add value).  I applied to Makers Academy (a highly selective, intensive 12 week coding bootcamp) and having recently graduated from the course, I am now looking to launch my new career as a fully fledged full-stack junior developer, with an eagerness and drive to learn, with a great company.
 
-## Projects && Code
+## <a name="projects">Projects && Code</a>
 
 The Makers Academy curriculum is centred around learning to code by doing. The projects focus on Agile best practices like TDD and pair programming - modeling the modern world of software engineering in the workplace.  You can see my progression throughout the course on [my Github](https://github.com/ZoeKavanagh) however, below are some select projects to demonstrate what I have learnt in just 12 weeks:
 
@@ -69,5 +73,11 @@ Highly selective 12 week intensive coding bootcamp.
 
 
 #### Interests
-I have recently been promoted from a mere 'sender of memes' to 'maker of memes', which is a full time job in itself!
 
+I enjoy exercise, mostly swimming and walking - discovering new places and going off the beaten-track.  I have a passion for learning. (I have recently been promoted from a mere 'sender of memes' to 'maker of memes'.)
+
+#### Contact
+
+Mobile: 07899515870
+Email: zoekavanagh2017@hotmail.com
+Github: @ZoeKavanagh
