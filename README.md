@@ -2,8 +2,6 @@
 
 [About me](#about) | [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Contact](#contact) |
 
-<a name="projects">Projects & Code</a>
-
 ## <a name="about">About me</a>
 
 In 2018 I made a bold decision to change my career and leap into the world of computer progamming.  Having worked in the Company Secretarial industry for nearly 12 years, it became impossible to ignore how much tech was changing the future and, suffering from FOMO (fear of missing out), I knew I had to be a contributor (and add value).  I applied to Makers Academy (a highly selective, intensive 12 week coding bootcamp) and having recently graduated from the course, I am now looking to launch my new career as a fully fledged full-stack junior developer, with an eagerness and drive to learn, with a great company.
@@ -25,11 +23,11 @@ The Makers Academy curriculum is centred around learning to code by doing. The p
 
 I worked on four group projects throughout my time at Makers, and although working as a team can be challenging, it was an environment in which I thrived.  I enjoy the comradery of working in a team and the fun it can inject into working.  To ensure we always had a clear direction during the project timeframes, we have daily morning stand-ups and retros following each sprint.  We used kanban for every project which was great a way to track progression, keep momentum up and assign responsibilities. 
 
-Good communication is key to a successful project and allowing time and space for that communication to happen, I beleive is essential.  
+Good communication is key to a successful project and allowing time and space for that communication to happen, I believe is essential.  
 
 #### Ability to work under preassure 
 
-Having come from a high preassured working environment before joining Makers, I know the word deadline very well!  In my previous roles, I have had more than one occasion where the goal posts have changed at the last minute and both, as a team member and individually, I have learnt how to adapt in order to meet the changing requirements.  Makers has also provided times of high pressure in a different way, learning completely new technologies in an intense environment, at a fast pace, I beleive has demonstrated my resilience. 
+Having come from a high pressured working environment before joining Makers, I know the word deadline very well!  In my previous roles, I have had more than one occasion where the goal posts have changed at the last minute and both, as a team member and individually, I have learnt how to adapt in order to meet the changing requirements.  Makers has also provided times of high pressure in a different way, learning completely new technologies in an intense environment, at a fast pace, I beleive has demonstrated my resilience. 
 
 #### Creativity
 
