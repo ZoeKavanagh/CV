@@ -43,16 +43,16 @@ Problem solving for me is going back to asking 'what is the real problem?' and t
 
 Highly selective 12 week intensive coding bootcamp.
 
- - Test driven development focused
- - Object oriented programming & software design
- - Full stack web development
- - Building MVC framework pattern
- - Agile/XP Values
-  - Languages: Ruby, JavaScript (and jQuery), HTML/CSS
-  - Web Frameworks: Sinatra, Ruby on Rails
-  - Databases: PostgreSQL
-  - Testing Suites: RSpec, Capybara, Selenium-Webdriver, Jasmine
-  - CI/CD: Travis CI, Heroku, AWS S3
+ * Test driven development focused
+ * Object oriented programming & software design
+ * Full stack web development
+ * Building MVC framework pattern
+ * Agile/XP Values
+   * Languages: Ruby, JavaScript (and jQuery), HTML/CSS
+   * Web Frameworks: Sinatra, Ruby on Rails
+   * Databases: PostgreSQL
+   * Testing Suites: RSpec, Capybara, Selenium-Webdriver, Jasmine
+   * CI/CD: Travis CI, Heroku, AWS S3
 
 #### Institute of Chartered Secretaries and Administrators (ICSA) / Tapestry (Jun 2016 to Aug 2016)
 
@@ -78,6 +78,6 @@ I enjoy exercise, mostly swimming and walking - discovering new places and going
 
 #### Contact
 
-Mobile: 07899515870
-Email: zoekavanagh2017@hotmail.com
-Github: @ZoeKavanagh
+ - Mobile: 07899515870
+ - Email: zoekavanagh2017@hotmail.com
+ - Github: @ZoeKavanagh
