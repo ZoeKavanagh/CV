@@ -31,9 +31,9 @@ Having come from a high pressured working environment before joining Makers, I k
 
 #### Creativity
 
-I like to think creatively in order to solve a problem. In my previous role as Share Schemes Co-ordinator, I was taksed with increasing the take-up of our Employee Share Plans amoungst our younger employees.  The solution was obvious but we had never addressed it specifically, our communications needed to be aligned with the thoughts of younger people.  With sign off, I managed to change the communications plan completely and the result was phenomenal, we saw a significant rise in take-up.  
+I like to think creatively in order to solve a problem. In my previous role as Share Schemes Co-ordinator, I was tasked with increasing take-up of our Employee Share Plans amongst our younger employees.  The solution was obvious but we had never addressed it specifically, our communications needed to be aligned with the thoughts of younger people.  With sign off, I managed to change the communications plan completely and the result was phenomenal, we saw a significant rise in take-up.  
 
-Problem solving for me is going back to asking 'what is the real problem?' and then finding the first smallest part of the problem that needs solving (in this case it was just getting young people to read the communications). This approach is directly applicable to writing good code - starting by solving the first problem and building up gradually.
+Problem solving for me is going back to asking 'what is the real problem?' and then finding the first smallest part of the problem that needs solving (in this case it was just getting young people to read the communications). This approach is directly applicable to writing good code - starting by solving the first smallest problem and building up gradually.
 
 ## Education
 
