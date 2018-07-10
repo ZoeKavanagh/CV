@@ -2,49 +2,56 @@
 
 ### About me
 
-In 2018 I made a bold decision to change my career and leap into the world of computer progamming.  Having worked in Company Secretarial industry for nearly 12 years, it became apparent to me how tech was changing the future and suffering from FOMO (fear of missing out), I decided I want to be apart of the change.  I then applied to Makers Academy (an intensive 12 week coding bootcamp) and having recently graduated from the course, I am looking to start a new adventure as a junior developer role with a great company.
+In 2018 I made a bold decision to change my career and leap into the world of computer progamming.  Having worked in the Company Secretarial industry for nearly 12 years, it became increasingly hard for me to ignore how much tech was changing the future and suffering from FOMO (fear of missing out), I knew I had to be apart of that change.  I then applied to Makers Academy (an intensive 12 week coding bootcamp) and having recently graduated from the course, I am now looking to launch my new career as a junior developer with a great company.
+
+## Projects && Code
+
+| Project | Description | Link |
+| :---    |     :---:      |          ---: |
+| Fishnet | git status     | git status    |
+| Bank Tech Test | git diff       | git diff      |
+| Make My Day | 
 
 ## Skills
 
-
-
 #### Team Work
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+For my first group project (recreating our rendition of AirBNB), we decided that the purpose of the week was to learn and to try to use new technologies. Morale fluctuated as we underestimated how difficult it would be to wrestle with these tech stacks. Running daily standups and retros, I ensured that our group kept our eyes on the objective we set when we started — our moods always better coming out of them than going in. I believe this helped us to keep focus of what we wanted out of the project whilst maintaining good group cohesion. Ultimately, at the end of the project, we came out deciding that we did learn - hitting our objective.
 
-- Experience
-- Achievements
-- Evidence
+#### Ability to work under preassure 
 
-#### Another Skill
+Clean code advocate
+Makers shaped and facilitated my want to be a purveyor of clean code. Exercising programming principles such as SOLID and DRY, practicing usage of XP Values in group situations to ensure we were on the same wavelength, striking a fine balance between having an efficient and a readable codebase (for yourself as well as for others!) and using TDD/BDD to keep pesky bugs out of the way when that crafted code is pushed to production.
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+I truly believe in this approach to programming and coding and hope to work with others that respect it as much as I do.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+#### Creativity
+
+Makers shaped and facilitated my want to be a purveyor of clean code. Exercising programming principles such as SOLID and DRY, practicing usage of XP Values in group situations to ensure we were on the same wavelength, striking a fine balance between having an efficient and a readable codebase (for yourself as well as for others!) and using TDD/BDD to keep pesky bugs out of the way when that crafted code is pushed to production.
 
 ## Education
 
 #### Makers Academy (16 April 2018 to 6 July 2018)
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
+Highly selective 12 week intensive coding bootcamp.
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+ - Test driven development focused
+ - Object oriented programming & software design
+ - Full stack web development
+ - Building MVC framework pattern
+ - Agile/XP
+ - Ruby, Rails, JavaScript
+ - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Institute of Chartered Secretaries and Administrators (ICSA) / Tapestry (Jun 2016 to Aug 2016)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- ICSA Certificate in Employee Share Plans
 
-#### Any other qualifications
+#### Institute of Chartered Secretaries and Administrators (ICSA) / (Jan 2007 to Dec 2007)
+
+- ICSA Certificate in Company Secretarial Practice and Share Registration Practice
+
+#### Legal Secretarial Diploma / Pitman Training / (2003)
 
 ## Experience
 
