@@ -27,7 +27,7 @@ Good communication is key to a successful project and allowing time and space fo
 
 #### Ability to work under preassure 
 
-Having come from a high pressured working environment before joining Makers, I know the word deadline very well!  In my previous roles, I have had more than one occasion where the goal posts have changed at the last minute and both, as a team member and individually, I have learnt how to adapt in order to meet the changing requirements.  Makers has also provided times of high pressure in a different way, learning completely new technologies in an intense environment, at a fast pace, I beleive has demonstrated my resilience. 
+Having come from a high pressured working environment before joining Makers, I know the word deadline very well!  In my previous roles, I have had more than one occasion where the goal posts have changed at the last minute and both, as a team member and individually, I have learnt how to adapt in order to meet the changing requirements.  Makers has also provided times of high pressure in a different way, learning completely new technologies in an intense environment, at a fast pace, I believe has demonstrated my resilience. 
 
 #### Creativity
 
