@@ -1,12 +1,14 @@
-## Zoe Kavanagh
+# Zoe Kavanagh
 
-### A bit about me
+### About me
 
-I made a decision in 2018 to change my career and leap into the world of tech.  Having worked in Company Secretarial for 11 years, I could see clearly how tech would change the future of the secretarial industry entirely which provoked me to consider the future and my role in contributing the future.  I decided to apply to Makers Academy (12 week coding bootcamp) and having graduated from the course, I am looking for junior developer role with a great company.
+In 2018 I made a bold decision to change my career and leap into the world of computer progamming.  Having worked in Company Secretarial industry for nearly 12 years, it became apparent to me how tech was changing the future and suffering from FOMO (fear of missing out), I decided I want to be apart of the change.  I then applied to Makers Academy (an intensive 12 week coding bootcamp) and having recently graduated from the course, I am looking to start a new adventure as a junior developer role with a great company.
 
 ## Skills
 
-#### This Skill
+
+
+#### Team Work
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
