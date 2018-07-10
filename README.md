@@ -1,12 +1,14 @@
-# Zoe Kavanagh
+# Zoe Kavanagh (zoekavanagh2017@hotmail.com)
 
 ### About me
 
-In 2018 I made a bold decision to change my career and leap into the world of computer progamming.  Having worked in the Company Secretarial industry for nearly 12 years, it became increasingly hard for me to ignore how much tech was changing the future and suffering from FOMO (fear of missing out), I knew I had to be apart of that change.  I then applied to Makers Academy (an intensive 12 week coding bootcamp) and having recently graduated from the course, I am now looking to launch my new career as a junior developer with a great company.
+In 2018 I made a bold decision to change my career and leap into the world of computer progamming.  Having worked in the Company Secretarial industry for nearly 12 years, it became impossible to ignore how much tech was changing the future and suffering from FOMO (fear of missing out), I knew I had to be a contributor.  I applied to Makers Academy (a highly selective, intensive 12 week coding bootcamp) and having recently graduated from the course, I am now looking to launch my new career as a fully fledged full-stack junior developer, with an eagerness and drive to learn, with a great company.
 
 ## Projects && Code
 
-| Project | Description | Link |
+The Makers Academy curriculum is centred around learning to code by doing. The projects focus on Agile best practices like TDD and pair programming - modeling the modern world of software engineering in the workplace.  You can see my progression throughout the course on my Github however, below are some select projects to demonstrate what I have learnt in just 13 weeks:
+
+| Project | Description | |
 | :---    |     :---:      |          ---: |
 | Fishnet | git status     | git status    |
 | Bank Tech Test | git diff       | git diff      |
