@@ -16,6 +16,7 @@ The Makers Academy curriculum is centred around learning to code by doing. The p
 | [Fishnet](https://github.com/ZoeKavanagh/fishnet "Fishnet Repo")    | As a group of four, we were given the task of creating our interpretation of Facebook with an emphasis on focusing on learning as a group. There is no real expanation for the name.   | 2 weeks   | Ruby on Rails, AWS, Bootstrap, Postgres | Rspec, Capybara, Travis |
 | [Bank Tech Test](https://github.com/ZoeKavanagh/bank_tech_test "Bank Tech Test Repo")    | An individual attempt at a real life tech test.   | 2-3 days  | Ruby | Rspec |
 | [Make My Day](https://polar-beach-63507.herokuapp.com "Make My Day Deployed")     | Our final project was to create a fun new app that uses an API (which we built ourselves) to display suggested activities for the user to do on a selected date. | 2 weeks | Ruby on Rails, React, HTML, CSS, Heroku, Travis, AWS3, Postgres | Rspec, Capybara |
+| [Clint API](https://github.com/ZoeKavanagh/clint_api "Clint API")| Clint API was built as part of our final project, Make My Day.  It allows websites to access specific details of venues around the UK. | 2 weeks | Ruby on Rails, Postgres, Heroku | Rspec |
 
 ## Skills
 
